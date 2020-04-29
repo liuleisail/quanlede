@@ -10,7 +10,7 @@ kms
 
 adbyby-plus
 
-nlbwmon
+nlbwmon===netdata
 
 udpxy
 
